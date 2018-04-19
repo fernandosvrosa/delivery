@@ -1,0 +1,12 @@
+/home/CIT/fernandor/workspace/spring_tests/delivery/delivery-auth-server/src/main/java/com/coderef/delivery/config/ResourceServerConfiguration.java
+/home/CIT/fernandor/workspace/spring_tests/delivery/delivery-auth-server/src/main/java/com/coderef/delivery/domain/Authorities.java
+/home/CIT/fernandor/workspace/spring_tests/delivery/delivery-auth-server/src/main/java/com/coderef/delivery/service/UserDetailsService.java
+/home/CIT/fernandor/workspace/spring_tests/delivery/delivery-auth-server/src/main/java/com/coderef/delivery/repository/AuthorityRepository.java
+/home/CIT/fernandor/workspace/spring_tests/delivery/delivery-auth-server/src/main/java/com/coderef/delivery/config/WebSecurityConfig.java
+/home/CIT/fernandor/workspace/spring_tests/delivery/delivery-auth-server/src/main/java/com/coderef/delivery/config/AuthorizationServerConfiguration.java
+/home/CIT/fernandor/workspace/spring_tests/delivery/delivery-auth-server/src/main/java/com/coderef/delivery/model/User.java
+/home/CIT/fernandor/workspace/spring_tests/delivery/delivery-auth-server/src/main/java/com/coderef/delivery/config/CorsFilterConfiguration.java
+/home/CIT/fernandor/workspace/spring_tests/delivery/delivery-auth-server/src/main/java/com/coderef/delivery/controller/AuthController.java
+/home/CIT/fernandor/workspace/spring_tests/delivery/delivery-auth-server/src/main/java/com/coderef/delivery/repository/UserRepository.java
+/home/CIT/fernandor/workspace/spring_tests/delivery/delivery-auth-server/src/main/java/com/coderef/delivery/DeliveryAuthServerApplication.java
+/home/CIT/fernandor/workspace/spring_tests/delivery/delivery-auth-server/src/main/java/com/coderef/delivery/model/Authority.java
